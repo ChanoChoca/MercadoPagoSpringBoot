@@ -3,8 +3,6 @@
 
 A simple proyect with Mercado Pago using spring boot
 
-https://worldoftanks-react-ecommerce.netlify.app/
-
 ## Screenshots
 
 ![MercadoPago App](images/imagen1.png)
